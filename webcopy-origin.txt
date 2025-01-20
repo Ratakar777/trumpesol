@@ -1,0 +1,248 @@
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6694e6c6ffe7ec007a5fe0e5
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Itim&family=Shantell+Sans:ital,wght@0,300..800;1,300..800&display=swap
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/archivoblack/v21/HTxqL289NzCGg4MzN6KJ7eW6OYs.ttf
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\s\archivoblack\v21\HTxqL289NzCGg4MzN6KJ7eW6OYs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/itim/v14/0nknC9ziJOYewAQ.ttf
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\s\itim\v14\0nknC9ziJOYewAQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/shantellsans/v10/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYQiS2i2.ttf
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\s\shantellsans\v10\FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYQiS2i2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/shantellsans/v10/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYR8S2i2.ttf
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\s\shantellsans\v10\FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYR8S2i2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/shantellsans/v10/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYROS2i2.ttf
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\s\shantellsans\v10\FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYROS2i2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/shantellsans/v10/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYSbTGi2.ttf
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\s\shantellsans\v10\FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYSbTGi2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/shantellsans/v10/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYSiTGi2.ttf
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\s\shantellsans\v10\FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYSiTGi2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/shantellsans/v10/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYT8TGi2.ttf
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\s\shantellsans\v10\FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYT8TGi2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/shantellsans/v10/FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CADywvg.ttf
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\s\shantellsans\v10\FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CADywvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/shantellsans/v10/FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CF7ywvg.ttf
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\s\shantellsans\v10\FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CF7ywvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/shantellsans/v10/FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CGfywvg.ttf
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\s\shantellsans\v10\FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CGfywvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/shantellsans/v10/FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CID1wvg.ttf
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\s\shantellsans\v10\FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CID1wvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/shantellsans/v10/FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CLL1wvg.ttf
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\s\shantellsans\v10\FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CLL1wvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/shantellsans/v10/FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CN71wvg.ttf
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\s\shantellsans\v10\FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CN71wvg.ttf
+Content Type: font/ttf
+
+Uri: https://www.trumpesol.com/
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\index.htm
+Content Type: text/html
+
+Uri: https://www.trumpesol.com/css/fenn.css
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\css\fenn.css
+Content Type: text/css
+
+Uri: https://www.trumpesol.com/css/fennsol.css
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\css\fennsol.css
+Content Type: text/css
+
+Uri: https://www.trumpesol.com/css/index-HXDZdeqm.css
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\css\index-HXDZdeqm.css
+Content Type: text/css
+
+Uri: https://www.trumpesol.com/css/normalize.css
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\css\normalize.css
+Content Type: text/css
+
+Uri: https://www.trumpesol.com/fonts/maladroit.ttf
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\fonts\maladroit.ttf
+Content Type: font/ttf
+
+Uri: https://www.trumpesol.com/fonts/Splatch.ttf
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\fonts\Splatch.ttf
+Content Type: font/ttf
+
+Uri: https://www.trumpesol.com/images/about_pic.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\about_pic.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/car_anim.gif
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\car_anim.gif
+Content Type: image/gif
+
+Uri: https://www.trumpesol.com/images/chara_fly-p-500.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\chara_fly-p-500.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/chara_fly.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\chara_fly.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/clouds_hero_white.svg
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\clouds_hero_white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.trumpesol.com/images/cloud_hero_blue.svg
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\cloud_hero_blue.svg
+Content Type: image/svg+xml
+
+Uri: https://www.trumpesol.com/images/crime_chara.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\crime_chara.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/cursor.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\cursor.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/dextools.svg
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\dextools.svg
+Content Type: image/svg+xml
+
+Uri: https://www.trumpesol.com/images/fear_img.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\fear_img.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/flag.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\flag.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/hero_ground.svg
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\hero_ground.svg
+Content Type: image/svg+xml
+
+Uri: https://www.trumpesol.com/images/jail_chara.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\jail_chara.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/lasvegas_bg.svg
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\lasvegas_bg.svg
+Content Type: image/svg+xml
+
+Uri: https://www.trumpesol.com/images/logo1.gif
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\logo1.gif
+Content Type: image/gif
+
+Uri: https://www.trumpesol.com/images/palm.svg
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\palm.svg
+Content Type: image/svg+xml
+
+Uri: https://www.trumpesol.com/images/rich_chara.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\rich_chara.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/rich_chara_heart-p-500.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\rich_chara_heart-p-500.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/rich_chara_heart.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\rich_chara_heart.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/rich_lights.svg
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\rich_lights.svg
+Content Type: image/svg+xml
+
+Uri: https://www.trumpesol.com/images/rich_smoking_chara.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\rich_smoking_chara.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/shine.gif
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\shine.gif
+Content Type: image/gif
+
+Uri: https://www.trumpesol.com/images/tg.svg
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\tg.svg
+Content Type: image/svg+xml
+
+Uri: https://www.trumpesol.com/images/trader_chara-p-500.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\trader_chara-p-500.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/trader_chara.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\trader_chara.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/trader_screens-p-800.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\trader_screens-p-800.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/trader_screens.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\trader_screens.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/trader_table.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\trader_table.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/transition_02.png
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\transition_02.png
+Content Type: image/png
+
+Uri: https://www.trumpesol.com/images/transition_03.svg
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\transition_03.svg
+Content Type: image/svg+xml
+
+Uri: https://www.trumpesol.com/images/transition_04.svg
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\transition_04.svg
+Content Type: image/svg+xml
+
+Uri: https://www.trumpesol.com/images/transition_05.svg
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\transition_05.svg
+Content Type: image/svg+xml
+
+Uri: https://www.trumpesol.com/images/transition_06.svg
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\transition_06.svg
+Content Type: image/svg+xml
+
+Uri: https://www.trumpesol.com/images/x.svg
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\images\x.svg
+Content Type: image/svg+xml
+
+Uri: https://www.trumpesol.com/js/fenn.js
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\js\fenn.js
+Content Type: application/javascript
+
+Uri: https://www.trumpesol.com/js/index-DNqoYYgc.js
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\js\index-DNqoYYgc.js
+Content Type: application/javascript
+
+Uri: https://www.trumpesol.com/js/money.js
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\js\money.js
+Content Type: application/javascript
+
+Uri: https://www.trumpesol.com/js/music.js
+File Name: C:\work\Downloaded Web Sites\16.01\www.trumpesol.com\js\music.js
+Content Type: application/javascript
+
